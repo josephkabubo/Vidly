@@ -207,9 +207,22 @@
     <Compile Include="Migrations\202009011257153_AddBirthdateToCustomer.Designer.cs">
       <DependentUpon>202009011257153_AddBirthdateToCustomer.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202009011333250_AddMovie.cs" />
+    <Compile Include="Migrations\202009011333250_AddMovie.Designer.cs">
+      <DependentUpon>202009011333250_AddMovie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202009011335348_Genres.cs" />
+    <Compile Include="Migrations\202009011335348_Genres.Designer.cs">
+      <DependentUpon>202009011335348_Genres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202009011408532_AddMovie1.cs" />
+    <Compile Include="Migrations\202009011408532_AddMovie1.Designer.cs">
+      <DependentUpon>202009011408532_AddMovie1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
@@ -280,6 +293,7 @@
     <Content Include="Views\Movies\Index.cshtml" />
     <Content Include="Views\Customers\Index.cshtml" />
     <Content Include="Views\Customers\Details.cshtml" />
+    <Content Include="Views\Movies\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -321,6 +335,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202009011257153_AddBirthdateToCustomer.resx">
       <DependentUpon>202009011257153_AddBirthdateToCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202009011333250_AddMovie.resx">
+      <DependentUpon>202009011333250_AddMovie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202009011335348_Genres.resx">
+      <DependentUpon>202009011335348_Genres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202009011408532_AddMovie1.resx">
+      <DependentUpon>202009011408532_AddMovie1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -115,3 +115,6 @@ C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsT
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie1.resources

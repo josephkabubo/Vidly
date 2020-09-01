@@ -16,5 +16,7 @@ namespace Vidly.Controllers
 
             return View(movie);
         }
+
+        [Route("movies/release/{year:regex(\\d{4})}/{month:regex(\\d{2}):range(1,12)}")]
     }
 }

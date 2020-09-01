@@ -110,3 +110,4 @@ C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.reso
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources

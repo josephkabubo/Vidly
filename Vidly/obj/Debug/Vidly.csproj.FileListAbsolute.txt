@@ -112,3 +112,5 @@ C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedTo
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources

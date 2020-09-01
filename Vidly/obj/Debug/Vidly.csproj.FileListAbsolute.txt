@@ -106,3 +106,5 @@ C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cac
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache

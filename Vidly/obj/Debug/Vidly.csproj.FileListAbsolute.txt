@@ -111,3 +111,4 @@ C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cach
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\joeka\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
